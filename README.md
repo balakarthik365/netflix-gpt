@@ -3,6 +3,8 @@
 - Create react app
 - Configure tailwind css
 - Congfigure React project to github
+- Header
+- Login form
 
 # Features
 
